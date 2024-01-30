@@ -1,16 +1,16 @@
-# shoppeeclone
+# EzyRent Mobile Application
 
-A new Flutter project.
+landlord credential:
 
-## Getting Started
+username: l@gmail.com
+pass: 123456
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+student credentials:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+username: s3@gmail.com (male)
+pass: 123456
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+username: s2@gmail.com (female)
+pass: 123456
+
